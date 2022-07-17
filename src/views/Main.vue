@@ -172,7 +172,7 @@
         >
           <div class="mt-4 me-4">
             <span
-              class="text-h5 font-weight-bold me-3"
+              class="text-h6 font-weight-bold me-3"
               style="position: relative; bottom: 6px"
               >قیمت خودرو</span
             >
@@ -180,8 +180,8 @@
             <unicon
               name="chart-line"
               fill="black"
-              width="35"
-              height="35"
+              width="30"
+              height="30"
               class="pa-2 rounded-pill"
               style="background-color: #e5e6e4"
             />
@@ -209,9 +209,9 @@
           class="d-flex flex-column justify-center"
           height="300"
         >
-          <div class="text-right mx-auto mt-5">
+          <div class="text-right mx-md-auto mt-5">
             <span
-              class="text-h5 font-weight-bold me-3"
+              class="text-h6 font-weight-bold me-3"
               style="position: relative; bottom: 6px"
               >بررسی مشخصات فنی خودرو</span
             >
@@ -219,8 +219,8 @@
             <unicon
               name="wrench"
               fill="black"
-              width="35"
-              height="35"
+              width="30"
+              height="30"
               class="pa-2 rounded-pill"
               style="background-color: #e5e6e4"
             />
