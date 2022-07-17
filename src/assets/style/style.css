@@ -1,0 +1,70 @@
+/* Colors */
+.bama-bg-special-green {
+	background-color: #BEFA00 !important;
+}
+.bam-special-green {
+	color: #BEFA00 !important;
+}
+.bama-bg-special-gray {
+	background-color: #F3F4F2 !important;
+}
+/* size */
+.f1 {
+	font-size: 1.2rem;
+}
+.f1-5 {
+	font-size: 1.5rem;
+}
+/* +++++++++++++++ */
+.border {
+	border: 1px solid red;
+}
+.pointer {
+	cursor: pointer;
+}
+/* responsive design max*/
+@media only screen and (max-width: 540px) {
+	/* Header */
+	#menu-not-responsive {
+		display: none !important;
+	}
+	#burger-menu {
+		display: block !important;
+	}
+	/* ---------------- */
+	#Checking-the-technical-specifications-of-the-car {
+		width: 100%;
+	}
+	#Vehicle-price {
+		width: 100%;
+	}
+	#first-news-div-responsive {
+		width: 100% !important;
+	
+	}
+	#second-news-div-responsive {
+		width: 100% !important;
+	
+	}
+	#third-news-div-responsive {
+		width: 100% !important;
+	
+	}
+}
+/* responsive design min */
+@media only screen and (min-width: 540px) {
+	#responsive-btn {
+		display: none;
+	}
+	#second-box {
+		position: relative;
+		top: 70px;
+	}
+	#Checking-the-technical-specifications-of-the-car {
+		width: 30%;
+	}
+	#Vehicle-price {
+		width: 65%;
+	}
+}
+
